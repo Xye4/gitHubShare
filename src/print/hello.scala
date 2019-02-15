@@ -4,4 +4,5 @@ class hello {
   println("hello World")
   println("hey guys")
   println("ok")
+  println("fml")
 }
